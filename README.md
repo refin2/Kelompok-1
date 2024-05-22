@@ -3,5 +3,5 @@ Nama Kelompok 1
 - Refin
 - Arthan
 - Salma
-  Deskripsi dari aplikasi laundry
+- Deskripsi dari aplikasi laundry
   
